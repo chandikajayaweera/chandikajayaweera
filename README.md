@@ -7,8 +7,8 @@
 ## 🚀 About Me  
 - 🎓 **BSc (Hons) Software Engineering** – Second Upper (2:1) from **Plymouth University (UK)**  
 - 💻 Passionate about **full-stack web development** & **embedded systems**  
-- 🌱 Currently exploring **UI/UX design (Figma, Adobe XD), CMS (WordPress), and SEO optimization**  
-- ⚡ Motto: *“Code is best when it brings ideas to life.”*
+- 🌱 Currently exploring **DevOps practices, microservices, serverless computing, multi-tenant systems, and scalable architectures**  
+- ⚡ Motto: *“Crafting code that scales, performs, and lasts.”*
 
 ---
 
