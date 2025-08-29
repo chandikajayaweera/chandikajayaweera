@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **BSc (Hons) Software Engineering** – Second Upper (2:1) from **Plymouth University (UK)**  
+- 🎓 **BSc (Hons) Software Engineering** – from **Plymouth University (UK)**  
 - 💻 Passionate about **full-stack web development** & **embedded systems**  
 - 🌱 Currently exploring **DevOps practices, microservices, serverless computing, multi-tenant systems, and scalable architectures**  
 - ⚡ Motto: *“Crafting code that scales, performs, and lasts.”*
