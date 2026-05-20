@@ -26,7 +26,7 @@ Mostly into practical systems, fast feedback loops, and code that does not need 
 ```txt
 current playground
 ├─ embedded + sensor streaming
-├─ SvelteKit apps with boring-good backends
+├─ SvelteKit apps with clean backends
 ├─ Cloudflare Workers, queues, storage, edge-ish things
 └─ small hardware ideas that usually start with "what if..."
 ```
@@ -36,5 +36,5 @@ current playground
 </p>
 
 <p align="center">
-  <sub>The serious version lives at <a href="https://chandika.dev">chandika.dev</a>.</sub>
+  <sub>More stuff over at <a href="https://chandika.dev">chandika.dev</a>.</sub>
 </p>
