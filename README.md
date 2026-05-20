@@ -1,79 +1,40 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Chandika Jayaweera</h1>
-<h3 align="center">Full-Stack Developer | BSc (Hons) Software Engineering Graduate</h3>
-
----
-
-## 🚀 About Me  
-- 🎓 **BSc (Hons) Software Engineering** – from **Plymouth University (UK)**  
-- 💻 Passionate about **full-stack web development** & **embedded systems**  
-- 🌱 Currently exploring **DevOps practices, microservices, serverless computing, multi-tenant systems, and scalable architectures**  
-- ⚡ Motto: *“Crafting code that scales, performs, and lasts.”*
-
----
-
-## 🛠️ Tech Stack  
-
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,c,cpp" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=svelte,nodejs,express,laravel,tailwind,bootstrap,threejs" />
-  <br/>
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,githubactions" />
-</p>
-
----
-
-## 📈 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandikajayaweera&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandikajayaweera&theme=radical&hide_border=true" height="165"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:0891b2&text=Chandika%20Jayaweera&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=software%20%C3%97%20hardware%20%C3%97%20cloud&descAlignY=58&animation=fadeIn" alt="Chandika Jayaweera - software, hardware, cloud" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandikajayaweera&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <a href="https://chandika.dev"><img src="https://img.shields.io/badge/portfolio-chandika.dev-0f172a?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/chandikajayaweera"><img src="https://img.shields.io/badge/linkedin-connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+```txt
+wiring sensors → shipping web apps → pushing things to the edge
+```
 
-## 📌 Featured Projects  
+I like building things that cross layers: tiny boards, clean UIs, APIs, databases, and edge platforms.
 
-🔹 **[Motion Capture Suit](https://github.com/chandikajayaweera/MoCap-Suit)**  
-*ESP32-S3 | MicroPython | SvelteKit | Three.js*  
-> Real-time 3D motion tracking suit with modular firmware and live visualization.  
+Mostly into practical systems, fast feedback loops, and code that does not need an archaeological dig later.
 
-🔹 **[Green Supermarket](https://github.com/chandikajayaweera/greensupermarket)**  
-*Java (JSP) | MySQL*  
-> E-commerce platform with product catalog, shopping cart, and user authentication.  
-
-🔹 **[Tranquil Hotels](https://github.com/chandikajayaweera/Tranquil-Hotels)**  
-*HTML | CSS | Bootstrap*  
-> Responsive hotel website. [Live Demo](https://tranquil-hotels.vercel.app/)  
-
----
-
-## 🌍 Connect With Me  
+<br />
 
 <p align="center">
-  <a href="mailto:chandikajayaweera@pm.me">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=protonmail" />
-  </a>
-  <a href="https://linkedin.com/in/chandikajayaweera">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/chandikajayaweera">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,svelte,nodejs,go,python,c,cpp,postgres,docker,cloudflare,workers,githubactions" alt="tools I use" />
 </p>
 
----
+<br />
 
-## 🐍 Contribution Graph  
+```txt
+current playground
+├─ embedded + sensor streaming
+├─ SvelteKit apps with boring-good backends
+├─ Cloudflare Workers, queues, storage, edge-ish things
+└─ small hardware ideas that usually start with "what if..."
+```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+</p>
+
+<p align="center">
+  <sub>The serious version lives at <a href="https://chandika.dev">chandika.dev</a>.</sub>
 </p>
