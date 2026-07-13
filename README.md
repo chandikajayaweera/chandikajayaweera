@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:0891b2&text=Chandika%20Jayaweera&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=software%20%C3%97%20hardware%20%C3%97%20cloud&descAlignY=58&animation=fadeIn" alt="Chandika Jayaweera - software, hardware, cloud" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:151B23,100:161B22&text=Chandika%20Jayaweera&fontColor=C9D1D9&fontSize=36&fontAlignY=38&desc=software%20%E2%80%A2%20systems%20%E2%80%A2%20cloud&descAlignY=59&descSize=16&animation=fadeIn" alt="Chandika Jayaweera - software, hardware, cloud" />
 </p>
 
 <p align="center">
